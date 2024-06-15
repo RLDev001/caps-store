@@ -32,7 +32,9 @@ html,body{
 
 #left h1{
     font-size: 7vw;
-    font-weight: 300;
+    font-weight: 200;
+    
+
     color: hsl(0deg 0% 16.08%);
 }
 #color {
@@ -84,7 +86,7 @@ html,body{
 }
 #bottom p{
     font-size: 1vw;
-    font-weight: 400;
+    font-weight: 200;
 }
 #rigth{
     margin-top: 50px;
@@ -108,7 +110,7 @@ html,body{
 }
 #text-r h6{
     font-size: 0.8vw;
-    font-weight: 400;
+    font-weight: 200;
     margin-right: 15px;
 }
 #text-r h5{
@@ -175,7 +177,7 @@ img{
                         #left{
                             height: 100%;
                             width: 100%;  
-                             padding-right: 0px; 
+                            padding-right: 0px; 
                         }
 
 
