@@ -86,7 +86,7 @@ html,body{
 }
 #bottom p{
     font-size: 1vw;
-    font-weight: 200;
+    font-weight: 400;
 }
 #rigth{
     margin-top: 50px;
@@ -110,7 +110,7 @@ html,body{
 }
 #text-r h6{
     font-size: 0.8vw;
-    font-weight: 200;
+    font-weight: 400;
     margin-right: 15px;
 }
 #text-r h5{
@@ -236,7 +236,7 @@ img{
                         }
                         #bottom p{
                             font-size: 3vw;
-                            font-weight: 200;
+                            font-weight: 400;
                         }
                         #rigth{
                             margin-top: 10px;
@@ -261,7 +261,7 @@ img{
                         #text-r h6{
                         
                             font-size: 3vw;
-                            font-weight: 200;
+                            font-weight: 400;
                             margin-right: 15px;
                         }
                         #text-r h5{
