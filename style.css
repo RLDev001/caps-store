@@ -32,9 +32,7 @@ html,body{
 
 #left h1{
     font-size: 7vw;
-    font-weight: 200;
-    
-
+    font-weight: 300;
     color: hsl(0deg 0% 16.08%);
 }
 #color {
@@ -176,7 +174,8 @@ img{
                         }
                         #left{
                             height: 100%;
-                            width: 100%;    
+                            width: 100%;  
+                             padding-right: 0px; 
                         }
 
 
